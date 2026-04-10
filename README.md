@@ -24,4 +24,4 @@ The model successfully learned the distinction between normal and phishing URLs,
 ## 💡 Future Scope
 * Implement more advanced algorithms (like Random Forest or XGBoost) to compare accuracy.
 * Build a simple web interface or browser extension to test real-time URLs.
-*
+
